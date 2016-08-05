@@ -10,7 +10,8 @@ img{
   padding: 5px 10px 5px 10px;
   border-style: dashed;
 }
-.col-md-6{
+.col-md-5{
+  background-color: #FFE4C4;
   float: left;
   margin: 2px;
   padding: 5px 10px 5px 10px;
