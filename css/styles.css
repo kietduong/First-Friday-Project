@@ -1,6 +1,7 @@
 img{
   float:right;
-  width:20%;
+  width: 23%;
+  padding: 5px 5px 5px 5px;
 }
 
 .col-md-4{
@@ -16,4 +17,7 @@ img{
   margin: 2px;
   padding: 5px 10px 5px 10px;
   border-style: dashed;
+}
+head{
+  padding: 5px 5px 5px 5px;  
 }
