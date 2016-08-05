@@ -11,7 +11,6 @@
 * _Clone this repository_
 * _Open in ATOM_
 * _Adjust HTML, CSS, Bootstrap as you see fit_
-}_
 ## Known bugs
   _{No known bugs}_
 ## Support and contact details
